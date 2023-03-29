@@ -1,5 +1,7 @@
 ## Serpent OS Packaging Recipes
 
+The tooling for the Serpent OS Packaging Recipes lives in the [serpent-os](https://github.com/serpent-os) namespace.
+
 ### Repositories
 
 The repositories follow a largely monorepo development pattern, where
